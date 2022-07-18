@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.background-top {
+    background-image: url("https://img.freepik.com/free-photo/traditional-indian-soup-lentils-indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table_2829-18717.jpg?t=st=1657722557~exp=1657723157~hmac=66312c80ccb9939cc5addc5aeeec9474fff305b25664d36f65d81d1bc10edcf4&w=900");
+    background-size: cover;
+    height: 50vh;
+    width: 100vh;
+    opacity: 1;
+}
+
+.heading-card {
+    font-family: "Bree Serif";
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.paragraph-card {
+    font-family: "Bree Serif";
+    font-size: 10px;
+
+}
+
+.background-middle {
+    background-color: white;
+}
+
+.cards:hover {
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, .12), 0 4px 8px rgba(0, 0, 0, .06);
+}
+
+h1 {
+    font-family: "Bree Serif";
+    font-size: 30px;
+}
+
+p {
+    font-family: "Bree Serif";
+    font-size: 13px;
+    font-weight: normal;
+}
+
+.image {
+    border-style: none;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.font {
+    color: white;
+    font-family: "Bree Serif";
+}
+
+#custom-toggler {
+    border-color: white;
+}
+
+.color {
+    color: white;
+}
+
+.zomato-heading {
+    color: white;
+    font-family: "Bree Serif";
+    font-weight: bold;
+    font-size: 60px;
+}
+
+.zomato-paragraph {
+    color: white;
+    font-family: "Bree Serif";
+    font-size: 30px;
+}
+
+.background-card {
+    background-color: white;
+}
+.image1:hover{
+  transform:scale(1.05);
+}
